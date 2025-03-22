@@ -1,0 +1,28 @@
+Objetivo do Projeto:
+Desenvolver um sistema funcional que resolva um problema real, permitindo o cadastro,
+gerenciamento e consulta de informações, aplicando conceitos de programação, banco de
+dados e metodologias ágeis.
+Requisitos do Projeto:
+1. Funcionalidade Principal: O sistema deve resolver um problema específico, como
+gestão de estoques ou agendamentos.
+2. Lógica Computacional: Utilização de estruturas de controle (condicionais e
+loops) e manipulação de dados em Python.
+3. Banco de Dados: Modelagem de banco relacional (MER/DER) e operações CRUD
+(Create, Read, Update, Delete) em MySQL.
+4. Metodologia Ágil: Aplicação do SCRUM, com backlog, sprints e uso de
+ferramentas como Trello ou Jira.
+5. Apresentação Final: Demonstração do sistema, explicando arquitetura, lógica e
+implementação.
+FASES de construção pela lógica de programação:
+• Papéis do Time: PO Product Owner: será o professor Flavio Santarelli para todos os
+projetos; Scrum Master: definir quem será o líder do projeto (importante ser alguém
+com mais domínio de construção de código). Todos os demais receberão o papel
+de DEV-TEAM
+• Especificação técnica: Definir objetivo do sistema com módulos e funções
+(máximo 2 módulos e 8 funções)
+• Arquitetura: Construir a lógica (algoritmo) de cada função do sistema
+• Desenvolvimento: Desenvolvimento dos códigos; estrutura de banco de dados;
+Sistema de versionamento (GitHub).
+• Teste: Realizar testes unitários e funcionais.
+• Operação: Rodar o código completo na plataforma escolhida
+Crie cada um dos itens acima como CARTÃO no GitHub Projects
